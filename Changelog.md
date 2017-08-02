@@ -1,6 +1,7 @@
 ### 0.4.15 (unreleased)
 
 Features:
+ * Type Checker: Show unimplemented function if trying to instantiate an abstract class.
 
 Bugfixes:
  * Code Generator: Provide "new account gas" for low-level ``callcode`` and ``delegatecall``.
